@@ -1,0 +1,2 @@
+Hello 
+Read data; change data; set metadata on a storage container; store data using block and page blobs; stream data using blobs; access blobs securely; implement async blob copy; configure Content Delivery Network (CDN); design blob hierarchies; configure custom domains; scale blob storage and implement blob tiering; create connections to files from on-premises or cloud-based Windows or Linux machines; shard large datasets; implement blob leasing; implement Storage Events; implement Azure File Sync; implement virtual network service endpoints; implement Azure Files backup

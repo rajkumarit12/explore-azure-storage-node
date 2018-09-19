@@ -1,0 +1,22 @@
+{
+  "name": "explore-azure-storage-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajkumarit12/explore-azure-storage-node.git"
+  },
+  "author": "Rajkumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajkumarit12/explore-azure-storage-node/issues"
+  },
+  "homepage": "https://github.com/rajkumarit12/explore-azure-storage-node#readme",
+  "dependencies": {
+    "azure-storage": "^2.10.1"
+  }
+}
